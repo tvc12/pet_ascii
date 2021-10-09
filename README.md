@@ -10,7 +10,7 @@ Let's go 💪.
 
 **[how to create a pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)**
 
-*please provide source if you use #respect*
+*please provide source if you use it #respect*
 *e.g.: 👉 [OhMyPet!](https://www.ohmypet.app)* 
 
 ## Contents
