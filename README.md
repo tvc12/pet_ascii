@@ -15,9 +15,12 @@ Let's go 💪.
 
 ## Contents
 
-- [Cat](#cat)
-- [Dog](#dog)
-- [Fish](#fish)
+- [Pet ASCII](#pet-ascii)
+  - [Contents](#contents)
+  - [Cat](#cat)
+  - [Dog](#dog)
+  - [Fish](#fish)
+    - [Lovebirds III](#lovebirds-iii)
 
 ## Cat
 
@@ -83,3 +86,25 @@ Art by Joan Stark
 ```
 
 👉 [ASCII Art Archive](https://www.asciiart.eu/animals/fish)
+
+
+### Lovebirds III 
+
+```swift
+         (\/)
+          \/
+  (\/)   .-.  .-.
+   \/   ((`-)(-`))
+         \\    //   (\/)
+          \\  //     \/
+   .="""=._))((_.="""=.
+  /  .,   .'  '.   ,.  \
+ /__(,_.-'      '-._,)__\
+`    /|             |\   `
+    /_|__         __|_\
+      | `))     ((` |
+      |             |
+jgs  -"==         =="-
+```
+
+👉 [ASCII Art Archive](https://www.asciiart.eu/animals/birds-water)
