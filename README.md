@@ -138,6 +138,7 @@ jgs  -"==         =="-
 
 ### Monkey
 
+```swift
           __
      w  c(..)o   (
       \__(-)    __)
@@ -146,7 +147,9 @@ jgs  -"==         =="-
          w /|
           | \
 ejm97    m  m
+```
 
+```swift
             __,__
    .--.  .-"     "-.  .--.
   / .. \/  .-. .-.  \/ .. \
@@ -158,21 +161,26 @@ ejm97    m  m
        \   \ `~` /   /
 jgs     '._ '-=-' _.'
            '~---~'
+```
 
 👉 [ASCII Art Archive](https://www.asciiart.eu/animals/monkeys)
 
 
 ### Pig
 
+```swift
     _____  
 ^..^     \9
 (oo)_____/ 
    WW  WW
+```
 
+```swift
         --.__.--
      ___\(0_0)/
   ~~/     (OO)
     \  __  /
 snd  `='`='=
+```
 
 👉 [ASCII Art Archive](https://www.asciiart.eu/animals/other-land)
