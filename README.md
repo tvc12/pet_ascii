@@ -20,7 +20,9 @@ Let's go 💪.
   - [Cat](#cat)
   - [Dog](#dog)
   - [Fish](#fish)
-    - [Lovebirds III](#lovebirds-iii)
+  - [Lovebirds III](#lovebirds-iii)
+  - [Monkey](#monkey)
+  - [Pig](#pig)
 
 ## Cat
 
@@ -132,3 +134,53 @@ jgs  -"==         =="-
 ```
 
 👉 [ASCII Art Archive](https://www.asciiart.eu/animals/birds-water)
+
+
+### Monkey
+
+```swift
+          __
+     w  c(..)o   (
+      \__(-)    __)
+          /\   (
+         /(_)___)
+         w /|
+          | \
+ejm97    m  m
+```
+
+```swift
+            __,__
+   .--.  .-"     "-.  .--.
+  / .. \/  .-. .-.  \/ .. \
+ | |  '|  /   Y   \  |'  | |
+ | \   \  \ 0 | 0 /  /   / |
+  \ '- ,\.-"`` ``"-./, -' /
+   `'-' /_   ^ ^   _\ '-'`
+       |  \._   _./  |
+       \   \ `~` /   /
+jgs     '._ '-=-' _.'
+           '~---~'
+```
+
+👉 [ASCII Art Archive](https://www.asciiart.eu/animals/monkeys)
+
+
+### Pig
+
+```swift
+    _____  
+^..^     \9
+(oo)_____/ 
+   WW  WW
+```
+
+```swift
+        --.__.--
+     ___\(0_0)/
+  ~~/     (OO)
+    \  __  /
+snd  `='`='=
+```
+
+👉 [ASCII Art Archive](https://www.asciiart.eu/animals/other-land)
